@@ -6,11 +6,11 @@
 
 **pwd**
 
-__mkdir__
+_mkdir_
 
-*ls
-*echo
-*touch
+* ls
+* echo
+* touch
 
 1. git add -A
 1. git commit -m 'Markdown'
